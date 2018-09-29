@@ -14,7 +14,7 @@ public class CustomerTest extends BaseClass{
 	
 	FileDataUtiles file = new FileDataUtiles();
     WebdrivercommonUtils wLib = new WebdrivercommonUtils();
-
+//123
 	@Test
 	public void createCustomerTest() throws Throwable {
 		//read the data
